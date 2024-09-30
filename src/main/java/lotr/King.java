@@ -6,7 +6,6 @@ public class King extends Noble {
         super(5, 15);
     }
 
-
     public String toString() {
         return "King" + super.toString();
     }
